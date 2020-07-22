@@ -1,4 +1,18 @@
 #First {
     border: 1rem solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+#Image1 {
+    padding-left: 34vw;
+    padding-right: 34vw;
+    margin: 20px;
+}
+
+#Second {
+    border: 1rem solid black;
+    padding: 20px;
+    text-align: center;
 
 }
