@@ -1,6 +1,6 @@
 #First {
-    border: 1rem solid black;
-    padding: 20px;
+    border: 2em solid black;
+    padding: 20pt;
     text-align: center;
 }
 
@@ -14,4 +14,11 @@
     border: 1rem solid black;
     padding: 20px;
     text-align: center;
+}
+
+#top {
+    padding: 5%;
+    border-bottom: 5vh solid grey;
+    border-top: 5vh solid grey;
+
 }
